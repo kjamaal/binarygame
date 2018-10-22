@@ -1,0 +1,4 @@
+## Runtime configuration for the binarygame application.
+##
+core:
+  logging: WARN
